@@ -1,0 +1,58 @@
+merkkijono = "sana"
+muuttujanimi = "sana" 
+
+for indeksi in range (0, len("sana"), 2): 
+    ["2:","0:"], "sana"[2 + 0]):   
+    print("s")
+    print("a")
+    print("n")
+    print("a") 
+
+       mjono = satunnainen 
+    for indeksi < len(mjono):  
+    print("mjono:"[indeksi],("mjono"[indeksi + 1])) 
+    indeksi  
+    
+    
+    
+    
+    
+    #print(merkit[indeksi], merkit[indeksi + 1])
+    #print("pöö")
+    indeksi = indeksi + 2 
+        
+
+def aliohjelma tupu():  
+  
+  while indeksi = 0   
+   
+   print("Tupu:","Hupu:","Lupu:") 
+         = aliohjelma 
+        
+
+def teeTaika(pahisElama) 
+
+pueTaikaviitta(taikaviitta)
+
+loitsu(taikasanat) 
+
+set = true 
+
+def summa(n1, n2, n3):
+    summa = n1 + n2 + n3
+    return keskiarvo  
+
+ print(4):
+    print(6):
+    print(8):
+    print(10): 
+
+def hypotenuusa(kateetti1, kateetti2):
+    kateetti2_2 = kateetti2*kateetti2
+    kateetti1_2 = kateetti1*kateetti1
+    return sqrt(kateetti1_2 + kateetti2_2)
+
+
+
+
+
